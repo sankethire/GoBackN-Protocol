@@ -1,0 +1,174 @@
+RECIEVER: Recieved Packet 1
+RECIEVER: Sending Ack 1
+RECIEVER: Recieved Packet 2
+RECIEVER: Sending Ack 2
+RECIEVER: Recieved Packet 3 (error) 
+RECIEVER: Sending Ack 3 (error). Asking Sender to Go-Back-N to packet 3
+RECIEVER: Recieved Packet 3
+RECIEVER: Sending Ack 3
+RECIEVER: Recieved Packet 4
+RECIEVER: Sending Ack 4
+RECIEVER: Recieved Packet 5 (error) 
+RECIEVER: Sending Ack 5 (error). Asking Sender to Go-Back-N to packet 5
+RECIEVER: Recieved Packet 5
+RECIEVER: Sending Ack 5
+RECIEVER: Recieved Packet 6
+RECIEVER: Sending Ack 6
+RECIEVER: Recieved Packet 7
+RECIEVER: Sending Ack 7
+RECIEVER: Recieved Packet 8
+RECIEVER: Sending Ack 8
+RECIEVER: Recieved Packet 9
+RECIEVER: Sending Ack 9
+RECIEVER: Recieved Packet 10
+RECIEVER: Sending Ack 10
+RECIEVER: Recieved Packet 11
+RECIEVER: Sending Ack 11
+RECIEVER: Recieved Packet 12
+RECIEVER: Sending Ack 12
+RECIEVER: Recieved Packet 13
+RECIEVER: Sending Ack 13
+RECIEVER: Recieved Packet 14
+RECIEVER: Sending Ack 14
+RECIEVER: Recieved Packet 15
+RECIEVER: Sending Ack 15
+RECIEVER: Recieved Packet 16
+RECIEVER: Sending Ack 16
+RECIEVER: Recieved Packet 17
+RECIEVER: Sending Ack 17
+RECIEVER: Recieved Packet 18 (error) 
+RECIEVER: Sending Ack 18 (error). Asking Sender to Go-Back-N to packet 18
+RECIEVER: Recieved Packet 18
+RECIEVER: Sending Ack 18
+RECIEVER: Recieved Packet 19
+RECIEVER: Sending Ack 19
+RECIEVER: Recieved Packet 20
+RECIEVER: Sending Ack 20 (error). Asking Sender to Go-Back-N to packet 20
+RECIEVER: Recieved Packet 20
+RECIEVER: Sending Ack 20
+RECIEVER: Recieved Packet 21
+RECIEVER: Sending Ack 21
+RECIEVER: Recieved Packet 22
+RECIEVER: Sending Ack 22
+RECIEVER: Recieved Packet 23
+RECIEVER: Sending Ack 23
+RECIEVER: Recieved Packet 24
+RECIEVER: Sending Ack 24
+RECIEVER: Recieved Packet 25
+RECIEVER: Sending Ack 25
+RECIEVER: Recieved Packet 26
+RECIEVER: Sending Ack 26
+RECIEVER: Recieved Packet 27
+RECIEVER: Sending Ack 27
+RECIEVER: Recieved Packet 28
+RECIEVER: Sending Ack 28
+RECIEVER: Recieved Packet 29
+RECIEVER: Sending Ack 29
+RECIEVER: Recieved Packet 30
+RECIEVER: Sending Ack 30
+RECIEVER: Recieved Packet 31
+RECIEVER: Sending Ack 31
+RECIEVER: Recieved Packet 32
+RECIEVER: Sending Ack 32
+RECIEVER: Recieved Packet 33
+RECIEVER: Sending Ack 33 (error). Asking Sender to Go-Back-N to packet 33
+RECIEVER: Recieved Packet 33
+RECIEVER: Sending Ack 33
+RECIEVER: Recieved Packet 34
+RECIEVER: Sending Ack 34
+RECIEVER: Recieved Packet 35
+RECIEVER: Sending Ack 35
+RECIEVER: Recieved Packet 36
+RECIEVER: Sending Ack 36
+RECIEVER: Recieved Packet 37
+RECIEVER: Sending Ack 37
+RECIEVER: Recieved Packet 38
+RECIEVER: Sending Ack 38
+RECIEVER: Recieved Packet 39 (error) 
+RECIEVER: Sending Ack 39 (error). Asking Sender to Go-Back-N to packet 39
+RECIEVER: Recieved Packet 39
+RECIEVER: Sending Ack 39
+RECIEVER: Recieved Packet 40
+RECIEVER: Sending Ack 40
+RECIEVER: Recieved Packet 41
+RECIEVER: Sending Ack 41
+RECIEVER: Recieved Packet 42
+RECIEVER: Sending Ack 42
+RECIEVER: Recieved Packet 43
+RECIEVER: Sending Ack 43
+RECIEVER: Recieved Packet 44
+RECIEVER: Sending Ack 44
+RECIEVER: Recieved Packet 45
+RECIEVER: Sending Ack 45
+RECIEVER: Recieved Packet 46
+RECIEVER: Sending Ack 46
+RECIEVER: Recieved Packet 47
+RECIEVER: Sending Ack 47
+RECIEVER: Recieved Packet 48
+RECIEVER: Sending Ack 48
+RECIEVER: Recieved Packet 49
+RECIEVER: Sending Ack 49
+RECIEVER: Recieved Packet 50
+RECIEVER: Sending Ack 50
+RECIEVER: Recieved Packet 51
+RECIEVER: Sending Ack 51
+RECIEVER: Recieved Packet 52
+RECIEVER: Sending Ack 52
+RECIEVER: Recieved Packet 53
+RECIEVER: Sending Ack 53 (error). Asking Sender to Go-Back-N to packet 53
+RECIEVER: Recieved Packet 53
+RECIEVER: Sending Ack 53
+RECIEVER: Recieved Packet 54
+RECIEVER: Sending Ack 54
+RECIEVER: Recieved Packet 55
+RECIEVER: Sending Ack 55
+RECIEVER: Recieved Packet 56
+RECIEVER: Sending Ack 56
+RECIEVER: Recieved Packet 57
+RECIEVER: Sending Ack 57
+RECIEVER: Recieved Packet 58
+RECIEVER: Sending Ack 58
+RECIEVER: Recieved Packet 59 (error) 
+RECIEVER: Sending Ack 59 (error). Asking Sender to Go-Back-N to packet 59
+RECIEVER: Recieved Packet 59
+RECIEVER: Sending Ack 59
+RECIEVER: Recieved Packet 60
+RECIEVER: Sending Ack 60
+RECIEVER: Recieved Packet 61
+RECIEVER: Sending Ack 61
+RECIEVER: Recieved Packet 62
+RECIEVER: Sending Ack 62
+RECIEVER: Recieved Packet 63 (error) 
+RECIEVER: Sending Ack 63 (error). Asking Sender to Go-Back-N to packet 63
+RECIEVER: Recieved Packet 63 (error) 
+RECIEVER: Sending Ack 63 (error). Asking Sender to Go-Back-N to packet 63
+RECIEVER: Recieved Packet 63
+RECIEVER: Sending Ack 63 (error). Asking Sender to Go-Back-N to packet 63
+RECIEVER: Recieved Packet 63
+RECIEVER: Sending Ack 63
+RECIEVER: Recieved Packet 64
+RECIEVER: Sending Ack 64
+RECIEVER: Recieved Packet 65
+RECIEVER: Sending Ack 65
+RECIEVER: Recieved Packet 66
+RECIEVER: Sending Ack 66
+RECIEVER: Recieved Packet 67
+RECIEVER: Sending Ack 67
+RECIEVER: Recieved Packet 68
+RECIEVER: Sending Ack 68
+RECIEVER: Recieved Packet 69
+RECIEVER: Sending Ack 69
+RECIEVER: Recieved Packet 70
+RECIEVER: Sending Ack 70
+RECIEVER: Recieved Packet 71
+RECIEVER: Sending Ack 71
+RECIEVER: Recieved Packet 72
+RECIEVER: Sending Ack 72
+RECIEVER: Recieved Packet 73
+RECIEVER: Sending Ack 73
+RECIEVER: Recieved Packet 74
+RECIEVER: Sending Ack 74
+RECIEVER: Recieved Packet 75
+RECIEVER: Sending Ack 75
+RECIEVER: Recieved Packet 76
+RECIEVER: Sending Ack 76
